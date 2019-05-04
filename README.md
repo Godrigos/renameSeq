@@ -7,5 +7,5 @@ Rename ABI sequence output files
 
 Under development using C++.
 
-[here](https://github.com/Godrigos/renameSeq/wiki).
+Usage details [here](https://docs.google.com/presentation/d/1D9gAGGQka55xqc2kAj0bMcnn7U81OFmtRTRTD4h1qiY/edit?usp=sharing).
 
