@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1547133963 source:/home/rodrigo/Google Drive/Documentos/C C++/renameSeq/Linux_x64/main.cpp
+	"renameSeq.hpp"
+	<boost/filesystem.hpp>
+
+1468249655 /home/rodrigo/Google Drive/Documentos/C C++/renameSeq/Linux_x64/renameSeq.hpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstdio>
+	<cstdlib>
+	<sstream>
+	<ctime>
+
+1556109091 source:/home/rodrigo/Google Drive/Documentos/C C++/renameSeq/Linux_x64/delimiter.cpp
+	"renameSeq.hpp"
+
+1545298084 source:/home/rodrigo/Google Drive/Documentos/C C++/renameSeq/Linux_x64/seqCheck.cpp
+	"renameSeq.hpp"
+
